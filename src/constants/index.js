@@ -180,7 +180,7 @@ const experiences = [
     company_name: "Mylapay",
     icon: Mylapay,
     iconBg: "#383E56",
-    date: "APRIL 2025 - present",
+    date: "APRIL 2025 - JUNE 2025",
     points: [
       "Engineered scalable backend services using Node.js and Express.js tailored for the fintech domain.",
       "Integrated payment gateways, transaction processing, and reconciliation modules to ensure secure financial operations.",
