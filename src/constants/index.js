@@ -35,7 +35,7 @@ import {
 } from '../assets'
 
 
-// Import Tekisky separately
+
 import Mylapay from "../assets/company/Mylapay.png";
 
 import NeuroRideicon from "../assets/NeuroRide.webp";
@@ -275,30 +275,34 @@ const projects = [
     source_code_link: "https://github.com/diwakarworks/LetterBoxd-Clone",
   },
   {
-    name: "GameHaven",
-    description:
-      "Game Haven is a feature-rich gaming platform that lets users discover, explore, and track their favorite video games. With an immersive UI and advanced filtering, users can find games by genre, platform, and popularity while watching integrated trailers for a complete experience",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "node",
-        color: "green-text-gradient",
-      },
-      {
-        name: "mongodb",
-        color: "green-text-gradient",
-      },
-      {
-        name: "redux",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: project3,
-    source_code_link: "https://github.com/diwakarworks/GameHaven",
-  },
-];
+  name: "Invoice SaaS",
+  description:
+    "A modern SaaS platform for billing and payment management.Users can create invoices, manage clients, and track payments securely.Includes Stripe integration, Auth0 authentication, and webhook-based automation.",
+  tags: [
+    {
+      name: "nextjs",
+      color: "blue-text-gradient",
+    },
+    {
+      name: "auth0",
+      color: "green-text-gradient",
+    },
+    {
+      name: "mongodb",
+      color: "green-text-gradient",
+    },
+    {
+      name: "stripe",
+      color: "pink-text-gradient",
+    },
+    {
+      name: "mantine",
+      color: "orange-text-gradient",
+    }
+  ],
+  image: project3, 
+  source_code_link: "https://github.com/diwakarworks/InvoicePro", 
+},
+]
 
 export { services, technologies, experiences, whyMeAchievements, projects };
