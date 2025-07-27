@@ -16,7 +16,7 @@ import bootstrap from "./tech/bootstrap.png";
 import fastapi from "./tech/fastapi.png";
 import daisyui from "./tech/daisyui.png";
 import cinemate from './cinemate.webp';
-import project3 from './project3.webp';
+import project3 from './project3.png';
 import project2 from './proj1.webp'
 import mysql from './tech/mysql.png';
 import express from './tech/express.png';
