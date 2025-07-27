@@ -197,8 +197,8 @@ const whyMeAchievements = [
     icon: NeuroRideicon,
   },
   {
-    title: "300+ Leetcode Problems",
-    description: "Solved 300+ DSA problems, emphasizing depth over volume, with mastery in problem-solving strategies..",
+    title: "500+ Leetcode Problems",
+    description: "Solved 500+ DSA problems, emphasizing depth over volume, with mastery in problem-solving strategies..",
     icon: Leetcodeicon, 
   },
   {
