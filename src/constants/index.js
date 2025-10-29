@@ -37,6 +37,8 @@ import {
 
 
 import Mylapay from "../assets/company/Mylapay.png";
+import Samunnati from "../assets/company/Samunnati.png"
+
 
 import NeuroRideicon from "../assets/NeuroRide.webp";
 import Leetcodeicon from "../assets/Leetcode.jpg";
@@ -175,6 +177,20 @@ const technologies = [
 ];
 
 const experiences = [
+   {
+    title: "Full Stack Developer",
+    company_name: "Samunnati",
+    icon: Samunnati,
+    iconBg: "#383E56",
+    date: "AUG 2025 - PRESENT",
+    points: [
+      "Developed full-stack web applications using React.js, Node.js, and NestJS, ensuring responsive and high-performance user experiences across devices.",
+      "Designed and integrated RESTful APIs, implemented authentication and authorization (JWT), and structured scalable database models using MongoDB.",
+      "Translated Figma designs into modular and reusable React components, optimizing rendering performance and ensuring seamless cross-platform responsiveness.",
+      "Improved application efficiency through lazy loading, code splitting, and browser-level performance tuning for enhanced scalability and reliability.",
+      "Collaborated using Git/GitHub under an Agile workflow and deployed production-ready applications on Microsoft Azure for enterprise-grade availability."
+    ],
+  },
   {
     title: "Backend Developer",
     company_name: "Mylapay",
@@ -306,3 +322,6 @@ const projects = [
 ]
 
 export { services, technologies, experiences, whyMeAchievements, projects };
+
+
+
