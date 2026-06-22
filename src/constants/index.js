@@ -35,9 +35,7 @@ import {
 } from '../assets'
 
 
-
-import Mylapay from "../assets/company/Mylapay.png";
-import Samunnati from "../assets/company/Samunnati.png"
+import RR IT Solutions from "../assets/company/RR IT Solutions"
 
 
 import NeuroRideicon from "../assets/NeuroRide.webp";
@@ -180,7 +178,7 @@ const experiences = [
    {
     title: "Full Stack Developer",
     company_name: "RR IT Solutions",
-    icon: Samunnati,
+    icon: RR IT Solutions,
     iconBg: "#383E56",
     date: "MAY 2024 - JUNE 2026",
     points: [
