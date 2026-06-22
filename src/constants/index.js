@@ -35,7 +35,7 @@ import {
 } from '../assets'
 
 
-import RR IT Solutions from "../assets/company/RR IT Solutions"
+import RR  from "../assets/company/RR.png"
 
 
 import NeuroRideicon from "../assets/NeuroRide.webp";
@@ -178,7 +178,7 @@ const experiences = [
    {
     title: "Full Stack Developer",
     company_name: "RR IT Solutions",
-    icon: RR IT Solutions,
+    icon: RR,
     iconBg: "#383E56",
     date: "MAY 2024 - JUNE 2026",
     points: [
