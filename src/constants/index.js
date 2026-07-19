@@ -35,9 +35,11 @@ import {
 } from '../assets'
 
 
-import RR  from "../assets/company/RR.png"
 
 
+
+import RR from "../assets/company/RR.png"
+import FT from "../assets/company/FT.png"
 import NeuroRideicon from "../assets/NeuroRide.webp";
 import Leetcodeicon from "../assets/Leetcode.jpg";
 import Realworldicon from "../assets/Realworld.webp";
@@ -180,7 +182,7 @@ const experiences = [
     company_name: "RR IT Solutions",
     icon: RR,
     iconBg: "#383E56",
-    date: "MAY 2024 - JUNE 2026",
+    date: "May 2024 - June 2026",
     points: [
       "Developed full-stack web applications using React.js, Node.js, and NestJS, ensuring responsive and high-performance user experiences across devices.",
       "Designed and integrated RESTful APIs, implemented authentication and authorization (JWT), and structured scalable database models using MongoDB.",
@@ -188,7 +190,20 @@ const experiences = [
       "Improved application efficiency through lazy loading, code splitting, and browser-level performance tuning for enhanced scalability and reliability.",
       "Collaborated using Git/GitHub under an Agile workflow and deployed production-ready applications on Microsoft Azure for enterprise-grade availability."
     ],
-  }
+  },
+{
+  title: "Full Stack Developer",
+  company_name: "Foyer Technology",
+  icon: FT,
+  iconBg: "#E6DEDD",
+  date: "JUL 2026 - PRESENT",
+  points: [
+    "Working as a Full Stack Developer, contributing to the design and development of web applications using modern JavaScript technologies.",
+    "Collaborating with cross-functional teams to build and maintain responsive front-end interfaces and robust back-end services.",
+    "Contributing to the full software development lifecycle, from planning and implementation to testing and deployment.",
+    "Participating in Agile workflows, code reviews, and version control practices to ensure high-quality, maintainable code.",
+  ],
+},
 ];
 
 const whyMeAchievements = [
