@@ -177,6 +177,19 @@ const technologies = [
 ];
 
 const experiences = [
+  {
+  title: "Full Stack Developer",
+  company_name: "Foyer Technology",
+  icon: FT,
+  iconBg: "#E6DEDD",
+  date: "July 2026 - PRESENT",
+  points: [
+    "Working as a Full Stack Developer, contributing to the design and development of web applications using modern JavaScript technologies.",
+    "Collaborating with cross-functional teams to build and maintain responsive front-end interfaces and robust back-end services.",
+    "Contributing to the full software development lifecycle, from planning and implementation to testing and deployment.",
+    "Participating in Agile workflows, code reviews, and version control practices to ensure high-quality, maintainable code.",
+  ],
+  },
    {
     title: "Full Stack Developer",
     company_name: "RR IT Solutions",
@@ -191,19 +204,6 @@ const experiences = [
       "Collaborated using Git/GitHub under an Agile workflow and deployed production-ready applications on Microsoft Azure for enterprise-grade availability."
     ],
   },
-{
-  title: "Full Stack Developer",
-  company_name: "Foyer Technology",
-  icon: FT,
-  iconBg: "#E6DEDD",
-  date: "JUL 2026 - PRESENT",
-  points: [
-    "Working as a Full Stack Developer, contributing to the design and development of web applications using modern JavaScript technologies.",
-    "Collaborating with cross-functional teams to build and maintain responsive front-end interfaces and robust back-end services.",
-    "Contributing to the full software development lifecycle, from planning and implementation to testing and deployment.",
-    "Participating in Agile workflows, code reviews, and version control practices to ensure high-quality, maintainable code.",
-  ],
-},
 ];
 
 const whyMeAchievements = [
