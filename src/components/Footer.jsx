@@ -17,7 +17,7 @@ const Footer = () => {
         <FaXTwitter size={24} />
       </a>
       <a
-        href="https://www.linkedin.com/in/diwakar-6719b0213"
+        href="https://www.linkedin.com/in/diwakar-g-dev"
         target="_blank"
         rel="noopener noreferrer"
       >
